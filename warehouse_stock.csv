@@ -1,0 +1,76 @@
+date,warehouse_id,warehouse_name,product_id,product_name,opening_stock,received,issued,closing_stock,lead_time_days
+1/1/2025,W001,Central Warehouse,P001,Paracetamol,300,100,40,360,5
+1/1/2025,W001,Central Warehouse,P002,Insulin,120,0,15,105,7
+1/1/2025,W001,Central Warehouse,P003,Rice Bag,800,200,90,910,4
+1/1/2025,W001,Central Warehouse,P004,Wheat Flour,600,150,70,680,4
+1/1/2025,W001,Central Warehouse,P005,ORS Packets,500,100,60,540,3
+1/2/2025,W001,Central Warehouse,P001,Paracetamol,360,0,50,310,5
+1/2/2025,W001,Central Warehouse,P002,Insulin,105,0,20,85,7
+1/2/2025,W001,Central Warehouse,P003,Rice Bag,910,0,120,790,4
+1/2/2025,W001,Central Warehouse,P004,Wheat Flour,680,0,80,600,4
+1/2/2025,W001,Central Warehouse,P005,ORS Packets,540,0,90,450,3
+1/3/2025,W001,Central Warehouse,P001,Paracetamol,310,0,55,255,5
+1/3/2025,W001,Central Warehouse,P002,Insulin,85,0,18,67,7
+1/3/2025,W001,Central Warehouse,P003,Rice Bag,790,0,130,660,4
+1/3/2025,W001,Central Warehouse,P004,Wheat Flour,600,0,85,515,4
+1/3/2025,W001,Central Warehouse,P005,ORS Packets,450,0,95,355,3
+1/4/2025,W001,Central Warehouse,P001,Paracetamol,255,100,60,295,5
+1/4/2025,W001,Central Warehouse,P002,Insulin,67,0,22,45,7
+1/4/2025,W001,Central Warehouse,P003,Rice Bag,660,200,140,720,4
+1/4/2025,W001,Central Warehouse,P004,Wheat Flour,515,150,95,570,4
+1/4/2025,W001,Central Warehouse,P005,ORS Packets,355,100,85,370,3
+1/5/2025,W001,Central Warehouse,P001,Paracetamol,295,0,65,230,5
+1/5/2025,W001,Central Warehouse,P002,Insulin,45,0,20,25,7
+1/5/2025,W001,Central Warehouse,P003,Rice Bag,720,0,150,570,4
+1/5/2025,W001,Central Warehouse,P004,Wheat Flour,570,0,100,470,4
+1/5/2025,W001,Central Warehouse,P005,ORS Packets,370,0,90,280,3
+1/6/2025,W002,Regional Warehouse,P001,Paracetamol,200,80,30,250,6
+1/6/2025,W002,Regional Warehouse,P002,Insulin,90,0,18,72,8
+1/6/2025,W002,Regional Warehouse,P003,Rice Bag,500,150,70,580,5
+1/6/2025,W002,Regional Warehouse,P004,Wheat Flour,450,120,60,510,5
+1/6/2025,W002,Regional Warehouse,P005,ORS Packets,350,100,55,395,4
+1/7/2025,W002,Regional Warehouse,P001,Paracetamol,250,0,45,205,6
+1/7/2025,W002,Regional Warehouse,P002,Insulin,72,0,22,50,8
+1/7/2025,W002,Regional Warehouse,P003,Rice Bag,580,0,100,480,5
+1/7/2025,W002,Regional Warehouse,P004,Wheat Flour,510,0,85,425,5
+1/7/2025,W002,Regional Warehouse,P005,ORS Packets,395,0,75,320,4
+1/8/2025,W002,Regional Warehouse,P001,Paracetamol,205,0,50,155,6
+1/8/2025,W002,Regional Warehouse,P002,Insulin,50,0,20,30,8
+1/8/2025,W002,Regional Warehouse,P003,Rice Bag,480,0,120,360,5
+1/8/2025,W002,Regional Warehouse,P004,Wheat Flour,425,0,90,335,5
+1/8/2025,W002,Regional Warehouse,P005,ORS Packets,320,0,85,235,4
+1/9/2025,W002,Regional Warehouse,P001,Paracetamol,155,100,55,200,6
+1/9/2025,W002,Regional Warehouse,P002,Insulin,30,0,18,12,8
+1/9/2025,W002,Regional Warehouse,P003,Rice Bag,360,150,130,380,5
+1/9/2025,W002,Regional Warehouse,P004,Wheat Flour,335,120,100,355,5
+1/9/2025,W002,Regional Warehouse,P005,ORS Packets,235,100,90,245,4
+1/10/2025,W002,Regional Warehouse,P001,Paracetamol,200,0,60,140,6
+1/10/2025,W002,Regional Warehouse,P002,Insulin,12,0,10,2,8
+1/10/2025,W002,Regional Warehouse,P003,Rice Bag,380,0,140,240,5
+1/10/2025,W002,Regional Warehouse,P004,Wheat Flour,355,0,110,245,5
+1/10/2025,W002,Regional Warehouse,P005,ORS Packets,245,0,95,150,4
+1/11/2025,W001,Central Warehouse,P001,Paracetamol,230,100,70,260,5
+1/11/2025,W001,Central Warehouse,P002,Insulin,25,0,15,10,7
+1/11/2025,W001,Central Warehouse,P003,Rice Bag,570,200,160,610,4
+1/11/2025,W001,Central Warehouse,P004,Wheat Flour,470,150,110,510,4
+1/11/2025,W001,Central Warehouse,P005,ORS Packets,280,100,95,285,3
+1/12/2025,W001,Central Warehouse,P001,Paracetamol,260,0,75,185,5
+1/12/2025,W001,Central Warehouse,P002,Insulin,10,0,8,2,7
+1/12/2025,W001,Central Warehouse,P003,Rice Bag,610,0,170,440,4
+1/12/2025,W001,Central Warehouse,P004,Wheat Flour,510,0,120,390,4
+1/12/2025,W001,Central Warehouse,P005,ORS Packets,285,0,100,185,3
+1/13/2025,W001,Central Warehouse,P001,Paracetamol,185,0,80,105,5
+1/13/2025,W001,Central Warehouse,P002,Insulin,2,0,2,0,7
+1/13/2025,W001,Central Warehouse,P003,Rice Bag,440,0,180,260,4
+1/13/2025,W001,Central Warehouse,P004,Wheat Flour,390,0,130,260,4
+1/13/2025,W001,Central Warehouse,P005,ORS Packets,185,0,110,75,3
+1/14/2025,W001,Central Warehouse,P001,Paracetamol,105,100,85,120,5
+1/14/2025,W001,Central Warehouse,P002,Insulin,0,50,0,50,7
+1/14/2025,W001,Central Warehouse,P003,Rice Bag,260,200,190,270,4
+1/14/2025,W001,Central Warehouse,P004,Wheat Flour,260,150,140,270,4
+1/14/2025,W001,Central Warehouse,P005,ORS Packets,75,100,60,115,3
+1/15/2025,W001,Central Warehouse,P001,Paracetamol,120,0,90,30,5
+1/15/2025,W001,Central Warehouse,P002,Insulin,50,0,20,30,7
+1/15/2025,W001,Central Warehouse,P003,Rice Bag,270,0,200,70,4
+1/15/2025,W001,Central Warehouse,P004,Wheat Flour,270,0,150,120,4
+1/15/2025,W001,Central Warehouse,P005,ORS Packets,115,0,80,35,3
